@@ -1,1 +1,1 @@
-# smartfencing
+# image detection project
